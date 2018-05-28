@@ -1,2 +1,2 @@
 # katas
-some tasks
+Some tasks from codewars etc.
